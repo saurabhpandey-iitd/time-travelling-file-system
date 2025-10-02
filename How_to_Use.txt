@@ -1,6 +1,6 @@
 ============================ Time-Travelling File System ==========================================================
 Author 	  --> Saurabh Pandey
-Entry No. --> 2024EE30043 
+Mail      --> ee3240043@iitd.ac.in
 Course    --> COL106
 
 1. Project Overview:
@@ -112,4 +112,5 @@ Course    --> COL106
 		1. Add persistent storage (currently in-memory only).
 		2. Support for directories and nested file structures.
 		3. More advanced analytics (e.g., most frequently edited files).
+
 		4. Enhanced user interface for easier command interaction.
